@@ -7,6 +7,8 @@ physics kernel library
 
 
 
+对于图形，这里只算结果。
 
+对于算法，自己研究。
 
 
